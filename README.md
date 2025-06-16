@@ -1,6 +1,4 @@
-# Simple TypeScript Project
-
-A basic TypeScript project setup with a simple example.
+SSS play file
 
 ## Setup
 
